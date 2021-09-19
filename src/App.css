@@ -32,7 +32,8 @@ h2 {
   width: 24px;
   height: 24px;
   border-radius: 4px;
-  background-color: #ccc;
+  background-image: url('https://avatars.githubusercontent.com/u/1330321?s=60&v=4');
+  background-size: contain;
 }
 
 .flex {
